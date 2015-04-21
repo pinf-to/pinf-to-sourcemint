@@ -1,0 +1,15 @@
+{
+  "uid": "github.com/pinf-to/pinf-to-sourcemint",
+  "name": "pinf-to-sourcemint",
+  "version": "0.1.0",
+  "main": "plugin.js",
+  "dependencies": {
+    "to.pinf.lib": "0.1.x",
+    "bash.origin": "0.1.x"
+  },
+  "config": {
+    "pio.deploy.converter": {
+      "name": "nodejs-lib"
+    }
+  }
+}
